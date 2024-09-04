@@ -1,5 +1,6 @@
 import express from 'express';
 import { DeputadoController } from './controllers/deputado_controller.js'
+import { DespesasDeputadoController } from './controllers/despesas_deputado_controller.js';
 
 // server.js
 const app = express();
@@ -13,8 +14,10 @@ app.get('/deputados', DeputadoController.obterDeputados);
 
 // Rota para buscar deputado pelo nome
 app.get('/deputados/deputado', DeputadoController.obterDeputado);
+
+app.get('/deputados/:id/despesas', DespesasDeputadoController.obterDespesasDeputados);
  
 // Inicia o servidor
 app.listen(port, () => {
-  console.log(`Servidor ouvindo na porta http://localhost:${port}`);
+  console.log(`Servidor ouvindo na porta http://localhost:${port}/deputados`);
 });

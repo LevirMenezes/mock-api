@@ -1,0 +1,132 @@
+{
+    "dados": [
+        {
+            "ano": 2024,
+            "mes": 7,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7769531,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-07-11",
+            "numDocumento": "1452",
+            "valorDocumento": 352.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3240/2024/7769531.pdf",
+            "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+            "cnpjCpfFornecedor": "08532429000131",
+            "valorLiquido": 352.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2057198,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7784864,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-08-07",
+            "numDocumento": "1539",
+            "valorDocumento": 200.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3240/2024/7784864.pdf",
+            "nomeFornecedor": "AMORETTO CAFES EXPRESSO LTDA",
+            "cnpjCpfFornecedor": "08532429000131",
+            "valorLiquido": 200.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064758,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7791832,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-08-26",
+            "numDocumento": "922292",
+            "valorDocumento": 50.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7791832",
+            "nomeFornecedor": "045 - QL 02 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "cnpjCpfFornecedor": "00306597004518",
+            "valorLiquido": 50.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2068239,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7784888,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-08-12",
+            "numDocumento": "2654179",
+            "valorDocumento": 50.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784888",
+            "nomeFornecedor": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
+            "cnpjCpfFornecedor": "37063328001058",
+            "valorLiquido": 50.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064772,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7786278,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-08-13",
+            "numDocumento": "51241",
+            "valorDocumento": 200.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7786278",
+            "nomeFornecedor": "ROTA 406 COMBUSTIVEIS LTDA",
+            "cnpjCpfFornecedor": "31165607000155",
+            "valorLiquido": 200.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2065388,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 7,
+            "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+            "codDocumento": 7781601,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-07-26",
+            "numDocumento": "202400000000064",
+            "valorDocumento": 1100.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3240/2024/7781601.pdf",
+            "nomeFornecedor": "MARIA CLARA SANTOS MENEZES GOMES 07533483570",
+            "cnpjCpfFornecedor": "41386377000108",
+            "valorLiquido": 806.67,
+            "valorGlosa": 293.33,
+            "numRessarcimento": "",
+            "codLote": 2063153,
+            "parcela": 0
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/68720/despesas?ordem=ASC&ordenarPor=ano"
+        },
+        {
+            "rel": "first",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/68720/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        },
+        {
+            "rel": "last",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/68720/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        }
+    ]
+}

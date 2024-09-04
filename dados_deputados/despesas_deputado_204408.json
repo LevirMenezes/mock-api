@@ -1,0 +1,94 @@
+{
+    "dados": [
+        {
+            "ano": 2024,
+            "mes": 7,
+            "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+            "codDocumento": 7779227,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-07-23",
+            "numDocumento": "11742",
+            "valorDocumento": 1200.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3317/2024/7779227.pdf",
+            "nomeFornecedor": "ASSOCIACAO DE RADIODIFUSAO COMUNITARIA LAGARTENSE",
+            "cnpjCpfFornecedor": "08881517000149",
+            "valorLiquido": 1200.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2062021,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 2,
+            "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+            "codDocumento": 7710403,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-03-25",
+            "numDocumento": "202400000000010",
+            "valorDocumento": 87300.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3317/2024/7710403.pdf",
+            "nomeFornecedor": "Austregesilo Junior Aragão Melo",
+            "cnpjCpfFornecedor": "08492189000199",
+            "valorLiquido": 87300.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2025732,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 3,
+            "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "codDocumento": 7710688,
+            "tipoDocumento": "Recibos/Outros",
+            "codTipoDocumento": 1,
+            "dataDocumento": "2024-03-28",
+            "numDocumento": "003",
+            "valorDocumento": 12700.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3317/2024/7710688.pdf",
+            "nomeFornecedor": "CDC SERVIÇOS E LOCAÇÕES LTDA",
+            "cnpjCpfFornecedor": "37281119000190",
+            "valorLiquido": 12700.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2025877,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 4,
+            "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "codDocumento": 7728389,
+            "tipoDocumento": "Recibos/Outros",
+            "codTipoDocumento": 1,
+            "dataDocumento": "2024-04-30",
+            "numDocumento": "0042024",
+            "valorDocumento": 12700.0,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3317/2024/7728389.pdf",
+            "nomeFornecedor": "CDC SERVIÇOS E LOCAÇÕES LTDA",
+            "cnpjCpfFornecedor": "37281119000190",
+            "valorLiquido": 12700.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2035207,
+            "parcela": 0
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408/despesas?ordem=ASC&ordenarPor=ano"
+        },
+        {
+            "rel": "first",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        },
+        {
+            "rel": "last",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204408/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        }
+    ]
+}

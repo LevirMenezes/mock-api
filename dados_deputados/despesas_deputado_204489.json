@@ -1,0 +1,94 @@
+{
+    "dados": [
+        {
+            "ano": 2024,
+            "mes": 7,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7784634,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-07-17",
+            "numDocumento": "882702",
+            "valorDocumento": 200.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784634",
+            "nomeFornecedor": "059 - R FUNDO 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "cnpjCpfFornecedor": "00306597005913",
+            "valorLiquido": 200.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064657,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 7,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7784636,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-07-26",
+            "numDocumento": "888200",
+            "valorDocumento": 200.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784636",
+            "nomeFornecedor": "059 - R FUNDO 1 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+            "cnpjCpfFornecedor": "00306597005913",
+            "valorLiquido": 200.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064657,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7783782,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-08-09",
+            "numDocumento": "28021",
+            "valorDocumento": 170.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7783782",
+            "nomeFornecedor": "AUTO POSTO 303 NORTE LTDA",
+            "cnpjCpfFornecedor": "38194212000120",
+            "valorLiquido": 170.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064223,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "codDocumento": 7784630,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-08-09",
+            "numDocumento": "69757",
+            "valorDocumento": 250.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7784630",
+            "nomeFornecedor": "COMERCIAL DE COMBUSTÍVEL MAM LTDA",
+            "cnpjCpfFornecedor": "10702904000112",
+            "valorLiquido": 250.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2064658,
+            "parcela": 0
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204489/despesas?ordem=ASC&ordenarPor=ano"
+        },
+        {
+            "rel": "first",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204489/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        },
+        {
+            "rel": "last",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204489/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        }
+    ]
+}

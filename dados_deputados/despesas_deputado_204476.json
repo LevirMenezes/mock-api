@@ -1,0 +1,9 @@
+{
+    "dados": [],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204476/despesas?ordem=ASC&ordenarPor=ano"
+        }
+    ]
+}

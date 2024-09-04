@@ -1,0 +1,132 @@
+{
+    "dados": [
+        {
+            "ano": 2024,
+            "mes": 3,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7721598,
+            "tipoDocumento": "Recibos/Outros",
+            "codTipoDocumento": 1,
+            "dataDocumento": "2024-04-09",
+            "numDocumento": "0000",
+            "valorDocumento": 2214.92,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3354/2024/7721598.pdf",
+            "nomeFornecedor": "ADMINISTRADORA DE BENS DI SARNO S/S LTDA",
+            "cnpjCpfFornecedor": "54201736000157",
+            "valorLiquido": 2214.92,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2031733,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 5,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7765498,
+            "tipoDocumento": "Recibos/Outros",
+            "codTipoDocumento": 1,
+            "dataDocumento": "2024-06-05",
+            "numDocumento": "0000",
+            "valorDocumento": 2159.91,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3354/2024/7765498.pdf",
+            "nomeFornecedor": "ADMINISTRADORA DE BENS DI SARNO S/S LTDA",
+            "cnpjCpfFornecedor": "54201736000157",
+            "valorLiquido": 2159.91,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2055085,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 6,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7765515,
+            "tipoDocumento": "Recibos/Outros",
+            "codTipoDocumento": 1,
+            "dataDocumento": "2024-07-03",
+            "numDocumento": "s/n",
+            "valorDocumento": 2172.86,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3354/2024/7765515.pdf",
+            "nomeFornecedor": "ADMINISTRADORA DE BENS DI SARNO S/S LTDA",
+            "cnpjCpfFornecedor": "54201736000157",
+            "valorLiquido": 2172.86,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2055103,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 8,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7784664,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-08-07",
+            "numDocumento": "633821455",
+            "valorDocumento": 86.56,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3354/2024/7784664.pdf",
+            "nomeFornecedor": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+            "cnpjCpfFornecedor": "61695227000193",
+            "valorLiquido": 86.56,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2066672,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 6,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7765569,
+            "tipoDocumento": "Nota Fiscal",
+            "codTipoDocumento": 0,
+            "dataDocumento": "2024-06-05",
+            "numDocumento": "688604302195",
+            "valorDocumento": 86.82,
+            "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3354/2024/7765569.pdf",
+            "nomeFornecedor": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
+            "cnpjCpfFornecedor": "61695227000193",
+            "valorLiquido": 86.82,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2055116,
+            "parcela": 0
+        },
+        {
+            "ano": 2024,
+            "mes": 5,
+            "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "codDocumento": 7737954,
+            "tipoDocumento": "Nota Fiscal Eletrônica",
+            "codTipoDocumento": 4,
+            "dataDocumento": "2024-05-13",
+            "numDocumento": "5681",
+            "valorDocumento": 660.0,
+            "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7737954",
+            "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+            "cnpjCpfFornecedor": "12132854000100",
+            "valorLiquido": 660.0,
+            "valorGlosa": 0.0,
+            "numRessarcimento": "",
+            "codLote": 2040709,
+            "parcela": 0
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/despesas?ordem=ASC&ordenarPor=ano"
+        },
+        {
+            "rel": "first",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        },
+        {
+            "rel": "last",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/despesas?ordem=ASC&ordenarPor=ano&pagina=1&itens=15"
+        }
+    ]
+}
