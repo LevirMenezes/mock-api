@@ -16,7 +16,9 @@ app.get('/deputados', DeputadoController.obterDeputados);
 app.get('/deputados/deputado', DeputadoController.obterDeputado);
 
 app.get('/deputados/:id/despesas', DespesasDeputadoController.obterDespesasDeputados);
- 
+
+app.get('/deputados/:id/despesas/mes', DespesasDeputadoController.obterDespesasPorMes);
+
 // Inicia o servidor
 app.listen(port, () => {
   console.log(`Servidor ouvindo na porta http://localhost:${port}/deputados`);
